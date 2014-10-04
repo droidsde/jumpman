@@ -8,6 +8,7 @@
 	<classpathentry kind="lib" path="../libs/cocos2d-x/extensions/soomla-cocos2dx-core/build/android/Cocos2dxAndroidCore.jar"/>
 	<classpathentry kind="lib" path="../libs/cocos2d-x/extensions/soomla-cocos2dx-core/build/android/square-otto-1.3.2.jar"/>
 <classpathentry kind="lib" path="../libs/cocos2d-x/extensions/cocos2dx-store/build/android/AndroidStore.jar"/>
+	
 <classpathentry kind="lib" path="../libs/cocos2d-x/extensions/cocos2dx-store/build/android/Cocos2dxAndroidStore.jar"/>
 	<classpathentry kind="lib" path="../libs/cocos2d-x/extensions/cocos2dx-store/build/android/billing-services/google-play/AndroidStoreGooglePlay.jar"/>
 	<classpathentry kind="src" path="src"/>

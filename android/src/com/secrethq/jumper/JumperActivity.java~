@@ -6,7 +6,7 @@ import org.cocos2dx.lib.Cocos2dxEditText;
 import org.cocos2dx.lib.Cocos2dxGLSurfaceView;
 import org.cocos2dx.lib.Cocos2dxRenderer;
 
-//import com.soomla.cocos2dx.store.*;
+import com.soomla.cocos2dx.store.*;
 
 import com.secrethq.jumper.R;
 
