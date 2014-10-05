@@ -42,10 +42,10 @@ public class JumperActivity extends Cocos2dxActivity{
 	    
 		glSurfaceView.setEGLConfigChooser(5,6,5,0,16,8);
 		
-		final ServiceManager serviceManager = ServiceManager.getInstance();
+		/*final ServiceManager serviceManager = ServiceManager.getInstance();
 		    serviceManager.setActivity(this);
 		    serviceManager.setGlSurfaceView(glSurfaceView);
-		    serviceManager.registerService(StoreService.getInstance());
+		    serviceManager.registerService(StoreService.getInstance());*/
 	    
 	    return glSurfaceView;
 	}
@@ -56,11 +56,11 @@ public class JumperActivity extends Cocos2dxActivity{
     
 	@Override protected void onPause() { 
 		super.onPause(); 
-		ServiceManager.getInstance().onPause(); 
+		//ServiceManager.getInstance().onPause(); 
 	}
 
 	@Override protected void onResume() { 
-		ServiceManager.getInstance().onResume(); 
+		//ServiceManager.getInstance().onResume(); 
 		super.onResume(); 
 	}
 	
