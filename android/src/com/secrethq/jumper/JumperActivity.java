@@ -26,11 +26,11 @@ public class JumperActivity extends Cocos2dxActivity{
         
 		setContentView(R.layout.main);
 
-        this.mGLSurfaceView = (Cocos2dxGLSurfaceView) findViewById(R.id.game_gl_surfaceview);
-        this.mGLSurfaceView.setEGLContextClientVersion(2);
-        this.mGLSurfaceView.setCocos2dxRenderer(new Cocos2dxRenderer());
+        //this.mGLSurfaceView = (Cocos2dxGLSurfaceView) findViewById(R.id.game_gl_surfaceview);
+        //this.mGLSurfaceView.setEGLContextClientVersion(2);
+        //this.mGLSurfaceView.setCocos2dxRenderer(new Cocos2dxRenderer());
         
-		this.mGLSurfaceView.setCocos2dxEditText( (Cocos2dxEditText)findViewById(R.id.textField) );
+		//this.mGLSurfaceView.setCocos2dxEditText( (Cocos2dxEditText)findViewById(R.id.textField) );
         
        
         
