@@ -6,4 +6,9 @@
 /home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/res/drawable-xhdpi/icon.png \
 /home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/res/values/strings.xml \
 /home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/res/drawable-mdpi/icon.png \
+/home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/bin/res/drawable/spacer.png \
+/home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/bin/res/drawable-ldpi/icon.png \
+/home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/bin/res/drawable-hdpi/icon.png \
+/home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/bin/res/drawable-xhdpi/icon.png \
+/home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/bin/res/drawable-mdpi/icon.png \
 /home/matt/cocos2dprojects/JumpGame_SourceCode/Jumper_Android/android/bin/AndroidManifest.xml \
