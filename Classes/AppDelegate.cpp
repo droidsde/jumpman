@@ -22,7 +22,7 @@
 #include "cocos2d.h"
 #include "SimpleAudioEngine.h"
 #include "MainMenuScene.h"
-#include "Soomla.h"
+//#include "Soomla.h"
 
 
 USING_NS_CC;
@@ -35,15 +35,15 @@ AppDelegate::AppDelegate()
 
 AppDelegate::~AppDelegate()
 {
-	soomla::CCSoomla::sharedSoomla()->removeEventHandler(handler);
+	//soomla::CCSoomla::sharedSoomla()->removeEventHandler(handler);
 }
 
 bool AppDelegate::applicationDidFinishLaunching()
 {
     
-	soomla::CCSoomla::sharedSoomla()->addEventHandler(handler);
+//	soomla::CCSoomla::sharedSoomla()->addEventHandler(handler);
 
-MuffinRushAssets *assets = MuffinRushAssets::create();
+/*MuffinRushAssets *assets = MuffinRushAssets::create();
     CCDictionary *storeParams = CCDictionary::create();
     storeParams->
         setObject(CCString::create("ExampleSoomSecret"), "soomSec");
@@ -55,7 +55,7 @@ MuffinRushAssets *assets = MuffinRushAssets::create();
     // This is the call to initialize CCStoreController
 soomla::CCStoreController::createShared(assets, storeParams);
 
-
+*/
 
 // initialize director
     CCDirector *pDirector = CCDirector::sharedDirector();
